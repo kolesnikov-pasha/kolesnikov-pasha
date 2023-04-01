@@ -1,2 +1,3 @@
-# palitra
-# kolesnikov-pasha
+# Kolesnikov Pasha
+
+👀 CV
